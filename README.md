@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdritoGhosh
-- 👀 I’m interested in CODING & ETHICAL HACKING
-- 🌱 I’m currently learning JAVA & PYTHON
+- 👀 Enthusiast Coder & Ethical Hacker
+- 🌱 I’m currently working with JAVA & PYTHON
 
 <!---
 Adrito2005/Adrito2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
